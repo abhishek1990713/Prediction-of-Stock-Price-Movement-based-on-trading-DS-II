@@ -1,6 +1,7 @@
+
 # Prediction-of-Stock-Price-Movement-based-on-trading-DS-II
 
-********************************* TEAM B FILE****************************************
+********************************* TEAM FILE****************************************
 # Prediction-of-Stock-Price-Movement-based-on-trading-DS-II
 The Raw Datasets that have been taken in this model creation were: Dataframe.csv and MSFT.csv
 **********************************************************
