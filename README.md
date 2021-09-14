@@ -1,4 +1,6 @@
 https://user-images.githubusercontent.com/80449168/122106613-c6470b80-ce37-11eb-8a7c-ef3c670f20e3.png
+![image](https://user-images.githubusercontent.com/80061192/133199683-c64f992c-6808-4b44-9174-9a41e8ce30cc.png)
+
 # Prediction-of-Stock-Price-Movement-based-on-trading-DS-II
 
 Streamlit_exp
