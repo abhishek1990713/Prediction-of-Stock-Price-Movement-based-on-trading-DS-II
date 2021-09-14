@@ -20,3 +20,38 @@ Internship Journey Experience
 """ Its always great when you have goals, teams, guidance in the path of learning and real world project implementation experience. Coming out from book world theories implementing it in the real world is really fun and joy when you are passionate about something, want to be part of some core domains. I get everything as per expectations i.e lots of learning and exposure. In this journey of Internship only learning is not there I make new friends and connections also which is also a part of growth in our journey.
 
 """
+BLUEPRINT AS PER TEAM -A,( open , high , low , close , profir/loss , max_profit , adj_close , volume)
+
+image
+
+DATA CLEANING, For 1. "Dataframe.csv",
+
+Deleted "Unnamed:7" Column For "Nan" Values Parsed The Date attribute in "datetime64" data type. Checked For Duplicate Rows(Not Found) Added New Featue to Existing dataset "Profit/Loss" & "Max_Profit"
+
+EDA(Exploratry Data Analysis), For 1. "DataFrame.csv",
+
+Distribution PLot is Plotted for each Attribute(Skewness) image
+
+Scatter PLot is Plotted between each Attribute(Trend) image
+
+Line PLot is PLotted for each attribute with respect to "Date"(Trend w.r.t "Date") image
+
+Heat Matrix is Shown For Correlation Between Each Attribute(Linear Relation) image
+
+Violin PLot is displayed for Each Attribute (Outliers) image
+
+DATA CLEANING, For 2. "MSFT.csv",
+
+Checked for "Nan" and Missing Values(NOt found) Parsed The Date attribute in "datetime64" data type. Checked For Duplicate Rows(Not Found) Added New Featue to Existing dataset "Profit/Loss" & "Max_Profit"
+
+EDA(Exploratry Data Analysis), For 2. "MSFT.csv",
+
+Distribution PLot is Plotted for each Attribute(Skewness) image
+
+Scatter PLot is Plotted between each Attribute(Trend) image
+
+Line PLot is PLotted for each attribute with respect to "Date"(Trend w.r.t "Date") image
+
+Heat Matrix is Shown For Correlation Between Each Attribute(Linear Relation) image
+
+Box PLot is displayed for Each Attribute (Outliers) image
